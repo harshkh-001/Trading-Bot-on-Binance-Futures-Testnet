@@ -39,4 +39,5 @@ https://demo-fapi.binance.com
 
 using testnet giving None in all fields 
 As on testnet.binancefuture.com it redirects to binancefuture.com So cannot create api on testnet
-On real need addhar verification to create api 
+
+On binancefuture.com need addhar verification to create api
